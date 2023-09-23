@@ -4,10 +4,6 @@
 ### Wassup 👋
 My name is Axel Tristan, I am a technology enthusiast and I am currently studying Engineering.
 
-<h1>Steak Stats</h1>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AxeelHeaven" alt="AxeelHeaven" />
-
-
 <a href="https://github.com/AxeelHeaven">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxeelHeaven&layout=compact&theme=gotham&locale=en" alt="AxeelHeaven's most used      languages"/>
 </a>
